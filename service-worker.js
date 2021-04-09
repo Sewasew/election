@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://sewasew.github.io/election/precache-manifest.8d37f383306de85c14dbd27e1b174dce.js"
+  "https://sewasew.github.io/election/precache-manifest.87c9c4532dbf214d9287f1b39ac0efd9.js"
 );
 
 self.addEventListener('message', (event) => {
