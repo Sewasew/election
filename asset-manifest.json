@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/election/static/css/main.1ba81dc7.chunk.css",
-    "main.js": "/election/static/js/main.78f41ff2.chunk.js",
-    "main.js.map": "/election/static/js/main.78f41ff2.chunk.js.map",
-    "runtime-main.js": "/election/static/js/runtime-main.e1f812d7.js",
-    "runtime-main.js.map": "/election/static/js/runtime-main.e1f812d7.js.map",
-    "static/js/2.6adcc1a7.chunk.js": "/election/static/js/2.6adcc1a7.chunk.js",
-    "static/js/2.6adcc1a7.chunk.js.map": "/election/static/js/2.6adcc1a7.chunk.js.map",
-    "index.html": "/election/index.html",
-    "precache-manifest.f9598d0032f2c03eaf8637a85e9667e9.js": "/election/precache-manifest.f9598d0032f2c03eaf8637a85e9667e9.js",
-    "service-worker.js": "/election/service-worker.js",
-    "static/css/main.1ba81dc7.chunk.css.map": "/election/static/css/main.1ba81dc7.chunk.css.map",
-    "static/js/2.6adcc1a7.chunk.js.LICENSE.txt": "/election/static/js/2.6adcc1a7.chunk.js.LICENSE.txt"
+    "main.css": "https://sewasew.github.io/election/static/css/main.1ba81dc7.chunk.css",
+    "main.js": "https://sewasew.github.io/election/static/js/main.61f0b39d.chunk.js",
+    "main.js.map": "https://sewasew.github.io/election/static/js/main.61f0b39d.chunk.js.map",
+    "runtime-main.js": "https://sewasew.github.io/election/static/js/runtime-main.dfbe8865.js",
+    "runtime-main.js.map": "https://sewasew.github.io/election/static/js/runtime-main.dfbe8865.js.map",
+    "static/js/2.6adcc1a7.chunk.js": "https://sewasew.github.io/election/static/js/2.6adcc1a7.chunk.js",
+    "static/js/2.6adcc1a7.chunk.js.map": "https://sewasew.github.io/election/static/js/2.6adcc1a7.chunk.js.map",
+    "index.html": "https://sewasew.github.io/election/index.html",
+    "precache-manifest.8d37f383306de85c14dbd27e1b174dce.js": "https://sewasew.github.io/election/precache-manifest.8d37f383306de85c14dbd27e1b174dce.js",
+    "service-worker.js": "https://sewasew.github.io/election/service-worker.js",
+    "static/css/main.1ba81dc7.chunk.css.map": "https://sewasew.github.io/election/static/css/main.1ba81dc7.chunk.css.map",
+    "static/js/2.6adcc1a7.chunk.js.LICENSE.txt": "https://sewasew.github.io/election/static/js/2.6adcc1a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1f812d7.js",
+    "static/js/runtime-main.dfbe8865.js",
     "static/js/2.6adcc1a7.chunk.js",
     "static/css/main.1ba81dc7.chunk.css",
-    "static/js/main.78f41ff2.chunk.js"
+    "static/js/main.61f0b39d.chunk.js"
   ]
 }
