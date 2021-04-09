@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://sewasew.github.io/election/static/css/main.1ba81dc7.chunk.css",
-    "main.js": "https://sewasew.github.io/election/static/js/main.71239a08.chunk.js",
-    "main.js.map": "https://sewasew.github.io/election/static/js/main.71239a08.chunk.js.map",
+    "main.js": "https://sewasew.github.io/election/static/js/main.0983e9c0.chunk.js",
+    "main.js.map": "https://sewasew.github.io/election/static/js/main.0983e9c0.chunk.js.map",
     "runtime-main.js": "https://sewasew.github.io/election/static/js/runtime-main.dfbe8865.js",
     "runtime-main.js.map": "https://sewasew.github.io/election/static/js/runtime-main.dfbe8865.js.map",
-    "static/js/2.6adcc1a7.chunk.js": "https://sewasew.github.io/election/static/js/2.6adcc1a7.chunk.js",
-    "static/js/2.6adcc1a7.chunk.js.map": "https://sewasew.github.io/election/static/js/2.6adcc1a7.chunk.js.map",
+    "static/js/2.a8cc6899.chunk.js": "https://sewasew.github.io/election/static/js/2.a8cc6899.chunk.js",
+    "static/js/2.a8cc6899.chunk.js.map": "https://sewasew.github.io/election/static/js/2.a8cc6899.chunk.js.map",
     "index.html": "https://sewasew.github.io/election/index.html",
-    "precache-manifest.87c9c4532dbf214d9287f1b39ac0efd9.js": "https://sewasew.github.io/election/precache-manifest.87c9c4532dbf214d9287f1b39ac0efd9.js",
+    "precache-manifest.c301d70a33d19256e0b44a8715893b95.js": "https://sewasew.github.io/election/precache-manifest.c301d70a33d19256e0b44a8715893b95.js",
     "service-worker.js": "https://sewasew.github.io/election/service-worker.js",
     "static/css/main.1ba81dc7.chunk.css.map": "https://sewasew.github.io/election/static/css/main.1ba81dc7.chunk.css.map",
-    "static/js/2.6adcc1a7.chunk.js.LICENSE.txt": "https://sewasew.github.io/election/static/js/2.6adcc1a7.chunk.js.LICENSE.txt"
+    "static/js/2.a8cc6899.chunk.js.LICENSE.txt": "https://sewasew.github.io/election/static/js/2.a8cc6899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dfbe8865.js",
-    "static/js/2.6adcc1a7.chunk.js",
+    "static/js/2.a8cc6899.chunk.js",
     "static/css/main.1ba81dc7.chunk.css",
-    "static/js/main.71239a08.chunk.js"
+    "static/js/main.0983e9c0.chunk.js"
   ]
 }
