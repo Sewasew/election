@@ -1,0 +1,111 @@
+{
+  "updatedAt": "2021-04-05 02:15",
+  "parties": [
+    {
+      "id": 1,
+      "amharicName": "የመላው ኢትዮጵያ አንድነት ድርጅት",
+      "englishName": "All Ethiopian Unity Party",
+      "type": "National",
+      "isFront": "No",
+      "isCoalision": "No",
+      "memberOf": null,
+      "profile": "",
+      "symbol": ""
+    }
+  ],
+  "votes": [
+    {
+      "stationId": 1,
+      "count": 20
+    },
+    {
+      "stationId": 2,
+      "count": 20
+    },
+    {
+      "stationId": 3,
+      "count": 20
+    },
+    {
+      "stationId": 4,
+      "count": 20
+    }
+  ],
+  "registrations": [
+    {
+      "stationId": 1,
+      "count": 50
+    },
+    {
+      "stationId": 2,
+      "count": 50
+    },
+    {
+      "stationId": 3,
+      "count": 50
+    },
+    {
+      "stationId": 4,
+      "count": 50
+    }
+  ],
+  "candidates": [
+    {
+      "partyId": 1,
+      "stationId": 1,
+      "count": 10,
+      "name": "",
+      "profile": ""
+    }
+  ],
+  "stations": [
+    {
+      "id": 1,
+      "name": "Gonder",
+      "woreda": "",
+      "electionZone": "",
+      "zone": "",
+      "region": "",
+      "location": [
+        12.600000,
+        37.466667
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Addis Abeba",
+      "woreda": "",
+      "electionZone": "",
+      "zone": "",
+      "region": "",
+      "location": [
+        9.005401,
+        38.763611
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dibo",
+      "woreda": "",
+      "electionZone": "123",
+      "zone": "",
+      "region": "",
+      "location": [
+        10.8778821,
+        38.3696651
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Doma",
+      "woreda": "",
+      "electionZone": "123",
+      "zone": "",
+      "region": "Amhara",
+      "location": [
+        10.882265,
+        38.3382941
+      ]
+    }
+  ]
+}
