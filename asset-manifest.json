@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://sewasew.github.io/election/static/css/main.1ba81dc7.chunk.css",
-    "main.js": "https://sewasew.github.io/election/static/js/main.0983e9c0.chunk.js",
-    "main.js.map": "https://sewasew.github.io/election/static/js/main.0983e9c0.chunk.js.map",
-    "runtime-main.js": "https://sewasew.github.io/election/static/js/runtime-main.dfbe8865.js",
-    "runtime-main.js.map": "https://sewasew.github.io/election/static/js/runtime-main.dfbe8865.js.map",
-    "static/js/2.a8cc6899.chunk.js": "https://sewasew.github.io/election/static/js/2.a8cc6899.chunk.js",
-    "static/js/2.a8cc6899.chunk.js.map": "https://sewasew.github.io/election/static/js/2.a8cc6899.chunk.js.map",
-    "index.html": "https://sewasew.github.io/election/index.html",
-    "precache-manifest.c301d70a33d19256e0b44a8715893b95.js": "https://sewasew.github.io/election/precache-manifest.c301d70a33d19256e0b44a8715893b95.js",
-    "service-worker.js": "https://sewasew.github.io/election/service-worker.js",
-    "static/css/main.1ba81dc7.chunk.css.map": "https://sewasew.github.io/election/static/css/main.1ba81dc7.chunk.css.map",
-    "static/js/2.a8cc6899.chunk.js.LICENSE.txt": "https://sewasew.github.io/election/static/js/2.a8cc6899.chunk.js.LICENSE.txt"
+    "main.css": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css",
+    "main.js": "https://sewasew.github.io/election2013/static/js/main.bdd670c5.chunk.js",
+    "main.js.map": "https://sewasew.github.io/election2013/static/js/main.bdd670c5.chunk.js.map",
+    "runtime-main.js": "https://sewasew.github.io/election2013/static/js/runtime-main.12ed7b11.js",
+    "runtime-main.js.map": "https://sewasew.github.io/election2013/static/js/runtime-main.12ed7b11.js.map",
+    "static/js/2.a8cc6899.chunk.js": "https://sewasew.github.io/election2013/static/js/2.a8cc6899.chunk.js",
+    "static/js/2.a8cc6899.chunk.js.map": "https://sewasew.github.io/election2013/static/js/2.a8cc6899.chunk.js.map",
+    "index.html": "https://sewasew.github.io/election2013/index.html",
+    "precache-manifest.6e96adaa8c1d41ad56182cce74fcae2f.js": "https://sewasew.github.io/election2013/precache-manifest.6e96adaa8c1d41ad56182cce74fcae2f.js",
+    "service-worker.js": "https://sewasew.github.io/election2013/service-worker.js",
+    "static/css/main.1ba81dc7.chunk.css.map": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css.map",
+    "static/js/2.a8cc6899.chunk.js.LICENSE.txt": "https://sewasew.github.io/election2013/static/js/2.a8cc6899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfbe8865.js",
+    "static/js/runtime-main.12ed7b11.js",
     "static/js/2.a8cc6899.chunk.js",
     "static/css/main.1ba81dc7.chunk.css",
-    "static/js/main.0983e9c0.chunk.js"
+    "static/js/main.bdd670c5.chunk.js"
   ]
 }
