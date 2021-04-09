@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css",
-    "main.js": "https://sewasew.github.io/election2013/static/js/main.7d3f49c4.chunk.js",
-    "main.js.map": "https://sewasew.github.io/election2013/static/js/main.7d3f49c4.chunk.js.map",
+    "main.js": "https://sewasew.github.io/election2013/static/js/main.2ed07a1b.chunk.js",
+    "main.js.map": "https://sewasew.github.io/election2013/static/js/main.2ed07a1b.chunk.js.map",
     "runtime-main.js": "https://sewasew.github.io/election2013/static/js/runtime-main.12ed7b11.js",
     "runtime-main.js.map": "https://sewasew.github.io/election2013/static/js/runtime-main.12ed7b11.js.map",
     "static/js/2.3ffb8ee1.chunk.js": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js",
     "static/js/2.3ffb8ee1.chunk.js.map": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js.map",
     "index.html": "https://sewasew.github.io/election2013/index.html",
-    "precache-manifest.1888d79748b6050fd9c2afdaa8a46912.js": "https://sewasew.github.io/election2013/precache-manifest.1888d79748b6050fd9c2afdaa8a46912.js",
+    "precache-manifest.14997fc6a58eb500e28bfcdbf64887bb.js": "https://sewasew.github.io/election2013/precache-manifest.14997fc6a58eb500e28bfcdbf64887bb.js",
     "service-worker.js": "https://sewasew.github.io/election2013/service-worker.js",
     "static/css/main.1ba81dc7.chunk.css.map": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css.map",
     "static/js/2.3ffb8ee1.chunk.js.LICENSE.txt": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12ed7b11.js",
     "static/js/2.3ffb8ee1.chunk.js",
     "static/css/main.1ba81dc7.chunk.css",
-    "static/js/main.7d3f49c4.chunk.js"
+    "static/js/main.2ed07a1b.chunk.js"
   ]
 }

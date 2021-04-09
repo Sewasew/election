@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44ce7d49b23eaab82a5d0013a8620cdb",
+    "revision": "eef5f6e9aa48765f37b52279a3591eca",
     "url": "https://sewasew.github.io/election2013/index.html"
   },
   {
-    "revision": "c0598e1a26ab9452e203",
+    "revision": "5b242eac7aba98f6f892",
     "url": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0598e1a26ab9452e203",
-    "url": "https://sewasew.github.io/election2013/static/js/main.7d3f49c4.chunk.js"
+    "revision": "5b242eac7aba98f6f892",
+    "url": "https://sewasew.github.io/election2013/static/js/main.2ed07a1b.chunk.js"
   },
   {
     "revision": "1fb5926110860907f02f",
