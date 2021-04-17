@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css",
-    "main.js": "https://sewasew.github.io/election2013/static/js/main.2ed07a1b.chunk.js",
-    "main.js.map": "https://sewasew.github.io/election2013/static/js/main.2ed07a1b.chunk.js.map",
+    "main.js": "https://sewasew.github.io/election2013/static/js/main.f0dbdc33.chunk.js",
+    "main.js.map": "https://sewasew.github.io/election2013/static/js/main.f0dbdc33.chunk.js.map",
     "runtime-main.js": "https://sewasew.github.io/election2013/static/js/runtime-main.12ed7b11.js",
     "runtime-main.js.map": "https://sewasew.github.io/election2013/static/js/runtime-main.12ed7b11.js.map",
-    "static/js/2.3ffb8ee1.chunk.js": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js",
-    "static/js/2.3ffb8ee1.chunk.js.map": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js.map",
+    "static/css/2.8d3f7698.chunk.css": "https://sewasew.github.io/election2013/static/css/2.8d3f7698.chunk.css",
+    "static/js/2.385996f4.chunk.js": "https://sewasew.github.io/election2013/static/js/2.385996f4.chunk.js",
+    "static/js/2.385996f4.chunk.js.map": "https://sewasew.github.io/election2013/static/js/2.385996f4.chunk.js.map",
     "index.html": "https://sewasew.github.io/election2013/index.html",
-    "precache-manifest.14997fc6a58eb500e28bfcdbf64887bb.js": "https://sewasew.github.io/election2013/precache-manifest.14997fc6a58eb500e28bfcdbf64887bb.js",
+    "precache-manifest.c8c34d2b38cbc4a79142f37cabda1f67.js": "https://sewasew.github.io/election2013/precache-manifest.c8c34d2b38cbc4a79142f37cabda1f67.js",
     "service-worker.js": "https://sewasew.github.io/election2013/service-worker.js",
+    "static/css/2.8d3f7698.chunk.css.map": "https://sewasew.github.io/election2013/static/css/2.8d3f7698.chunk.css.map",
     "static/css/main.1ba81dc7.chunk.css.map": "https://sewasew.github.io/election2013/static/css/main.1ba81dc7.chunk.css.map",
-    "static/js/2.3ffb8ee1.chunk.js.LICENSE.txt": "https://sewasew.github.io/election2013/static/js/2.3ffb8ee1.chunk.js.LICENSE.txt"
+    "static/js/2.385996f4.chunk.js.LICENSE.txt": "https://sewasew.github.io/election2013/static/js/2.385996f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12ed7b11.js",
-    "static/js/2.3ffb8ee1.chunk.js",
+    "static/css/2.8d3f7698.chunk.css",
+    "static/js/2.385996f4.chunk.js",
     "static/css/main.1ba81dc7.chunk.css",
-    "static/js/main.2ed07a1b.chunk.js"
+    "static/js/main.f0dbdc33.chunk.js"
   ]
 }
